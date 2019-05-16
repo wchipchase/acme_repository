@@ -1,0 +1,41 @@
+{
+  "types": [
+      {
+          "id": "type0",
+          "category": "category0",
+          "name": "personal",
+          "description": "Fireworks intended for recreational use during holiday celebrations"
+      },
+      {
+          "id": "type1",
+          "category": "category0",
+          "name": "professional",
+          "description": "Hi-energy materials used in construction"
+      },
+      {
+          "id": "type2",
+          "category": "category0",
+          "name": "military",
+          "description": "Explosives used by the military"
+      },
+      {
+          "id": "type3",
+          "category": "category1",
+          "name": "weather",
+          "description": "Explosive types of natural phenomena"
+      },
+      {
+          "id": "type4",
+          "category": "category1",
+          "name": "emotions",
+          "description": "Explosive types of behavior"
+       },
+       {
+          "id": "type5",
+          "category": "category1",
+          "name": "words",
+          "description": "Explosives words used in conversation"
+       }
+
+  ]
+}
