@@ -1,3 +1,9 @@
+@import "~bootstrap/scss/bootstrap";
+
 body {
   background-color: blue;
+
+  .product-card {
+    border: 5px black solid;
+   }
 }
