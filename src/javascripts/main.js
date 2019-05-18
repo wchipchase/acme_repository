@@ -1,3 +1,8 @@
+import productsDisplay from './components/products/products';
+import 'bootstrap';
 import '../styles/main.scss';
 
-console.error('hi');
+const init = () => {
+  productsDisplay.initProductsDisplay();
+};
+init();
